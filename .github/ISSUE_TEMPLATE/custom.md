@@ -1,6 +1,6 @@
 ---
-name: Other
-about: A blank template for any other issues
+name:  - your name
+about: A blank template for any other issues can be issused here
 
 ---
 
